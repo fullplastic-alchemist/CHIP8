@@ -1,0 +1,4 @@
+compile_commands.json
+bin/chip8
+build/
+.cache/
