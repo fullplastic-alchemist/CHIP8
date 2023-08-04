@@ -14,7 +14,7 @@ For example, to run tetris:
 make run GAME=TETRIS
 ```
 ## Observations
-The delay time is not so well defined, so you might need to change the value of the delay to run some ROMS in a better speed. For the current value, some games might run too fast or too slow. 
+The delay time is not so well defined, so you might need to change the [value of the delay](https://github.com/fullplastic-alchemist/CHIP8/blob/8f686f96f46d64c1e5c9f5e28ba9bab8f0fd646d/src/main.c#L119) to run some ROMS in a better speed. For the current value, some games might run too fast or too slow. 
 
 This is a study project and a work in progress :)
 ## References 
